@@ -1,9 +1,9 @@
 [submodule "declan_MERIT"]
 	path = declan_MERIT
-	url = https://github.com/EnzoMoser/MERIT.git
+	url = git@github.com:EnzoMoser/MERIT.git
 [submodule "julia_MERIT"]
 	path = julia_MERIT
-	url = https://github.com/EnzoMoser/MERIT.jl.git
+	url = git@github.com:EnzoMoser/MERIT.jl.git
 [submodule "briqs"]
 	path = briqs
-	url = https://github.com/EnzoMoser/BRIQS-Framework.git
+	url = git@github.com:EnzoMoser/BRIQS-Framework.git
