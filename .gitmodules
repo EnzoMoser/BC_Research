@@ -7,3 +7,6 @@
 [submodule "briqs"]
 	path = briqs
 	url = git@github.com:EnzoMoser/BRIQS-Framework.git
+[submodule "clean_brigid"]
+	path = clean_brigid
+	url = https://github.com/EnzoMoser/clean_brigid.git
