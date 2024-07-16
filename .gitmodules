@@ -1,12 +1,12 @@
 [submodule "declan_MERIT"]
 	path = declan_MERIT
-	url = git@github.com:EnzoMoser/MERIT.git
+	url = https://github.com/EnzoMoser/MERIT.git
 [submodule "julia_MERIT"]
 	path = julia_MERIT
-	url = git@github.com:EnzoMoser/MERIT.jl.git
+	url = https://github.com/EnzoMoser/MERIT.jl.git
 [submodule "briqs"]
 	path = briqs
-	url = git@github.com:EnzoMoser/BRIQS-Framework.git
+	url = https://github.com/EnzoMoser/BRIQS-Framework.git
 [submodule "clean_brigid"]
 	path = clean_brigid
-	url = git@github.com:EnzoMoser/clean_brigid.git
+	url = https://github.com/EnzoMoser/clean_brigid.git
