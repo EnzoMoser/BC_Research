@@ -1,2 +1,3 @@
 # Microwave Imaging Research
-## Overview of all the projects used in the research of microwave radar-based imaging with the purpose of aiding evaluations in breast cancer diagnoses.
+### Overview of all the projects used in the research of microwave radar-based imaging.
+#### The purpose is to assess their effective quality as a low-cost, non-ionising alternative and/or complementary modality to current breast imaging technologies in the evaluation of breast cancer diagnoses.
