@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+#!/usr/bin/env bash
 # If you type "ssh" as an argument, it will set the submodule repos to the ssh variant.
 # Never manually add ssh urls. Only use "git submodule add" to add https, and then swap to ssh with this command.
 
