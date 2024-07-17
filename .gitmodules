@@ -10,3 +10,6 @@
 [submodule "clean_brigid"]
 	path = clean_brigid
 	url = https://github.com/EnzoMoser/clean_brigid.git
+[submodule "UM-BMID"]
+	path = um_bmid
+	url = https://github.com/EnzoMoser/UM-BMID.git
