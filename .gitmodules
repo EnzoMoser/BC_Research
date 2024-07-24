@@ -14,5 +14,5 @@
 	path = um_bmid
 	url = https://github.com/EnzoMoser/UM-BMID.git
 [submodule "oor_epm"]
-	path = oor_epm
+	path = orr_epm
 	url = https://github.com/EnzoMoser/ORR-EPM.git
